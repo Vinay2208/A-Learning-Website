@@ -1,0 +1,18 @@
+body {
+    background-color: #555;
+}
+
+h1 {
+    font-family: 'Playfair display';
+    font-weight: 900;
+}
+
+h2 {
+    color: #41ae4c;
+    text-align: center;
+    background-color: #09edf5;
+    margin: 20px;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+    
+}
