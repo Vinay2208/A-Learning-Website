@@ -1,5 +1,38 @@
+/*Reset code*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* user design */
+
 body {
     background-color: #555;
+}
+
+.course {
+    background-color: #7fffd4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: 70px;
+}
+
+h1 {
+    margin: 0;
+    padding: 14px;
+    font-family: cursive;
+}
+
+.index {
+    float: left;
+    padding-left: 50px;
+
+}
+
+.wrapper {
+    margin-left: 200px;
 }
 
 h1 {
@@ -7,12 +40,24 @@ h1 {
     font-weight: 900;
 }
 
-h2 {
+.html-theory h2 {
     color: #41ae4c;
     text-align: center;
     background-color: #09edf5;
-    margin: 20px;
+    margin: 0;
     padding: 0;
     font-family: 'Bebas Neue', cursive;
     
+}
+
+section article div {
+    background-color: #fff;
+    text-align: center;
+}
+
+.html-theory p {
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    line-height: 28px;
 }
